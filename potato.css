@@ -12,7 +12,6 @@ h1 {
   margin-right: auto;
   background-color: white;
 }
-
 #potato img {
   position: absolute;
 }
@@ -110,7 +109,10 @@ h1 {
 
 
 /* Insert CSS for left earring below this line*/
-
+#earring_left_image
+{
+  top: 30px; left: 55px;
+}
 
 
 
