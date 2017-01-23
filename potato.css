@@ -74,9 +74,9 @@ left: 110px;
 
 
 /* Insert CSS for hat below this line*/
-
-
-
+#hat_image {
+  left: 103px;
+}
 
 /* Insert CSS for baseball cap below this line*/
 #baseball_cap_image{
