@@ -39,7 +39,9 @@ h1 {
 
 
 /* Insert CSS for eyes below this line*/
-
+#eyes_image {
+  top: 70px; left: 135px;
+}
 
 
 
@@ -49,6 +51,10 @@ h1 {
 
 
 /* Insert CSS for nose below this line*/
+#nose_image {
+ top: 150px;  right: 140px;
+ 
+}
 
 
 
