@@ -12,7 +12,6 @@ h1 {
   margin-right: auto;
   background-color: white;
 }
-
 #potato img {
   position: absolute;
 }
@@ -27,12 +26,21 @@ h1 {
 
 
 /* Insert CSS for ears below this line*/
+#ears img {
+  top:240px;  right: 70px;
+  
+  
+  
+}
+
 
 
 
 
 /* Insert CSS for eyes below this line*/
-
+#eyes_image {
+  top: 70px; left: 135px;
+}
 
 
 
@@ -42,6 +50,10 @@ h1 {
 
 
 /* Insert CSS for nose below this line*/
+#nose_image {
+ top: 150px;  right: 140px;
+ 
+}
 
 
 
@@ -67,7 +79,9 @@ left: 110px;
 
 
 /* Insert CSS for baseball cap below this line*/
-
+#baseball_cap_image{
+  
+}
 
 
 
@@ -82,7 +96,10 @@ left: 110px;
 
 
 /* Insert CSS for shoes below this line*/
-
+#shoes_image{
+  left: 45px;
+  bottom: 100px;
+}
 
 
 
@@ -92,7 +109,10 @@ left: 110px;
 
 
 /* Insert CSS for left earring below this line*/
-
+#earring_left_image
+{
+  top: 30px; left: 55px;
+}
 
 
 
@@ -107,6 +127,11 @@ left: 110px;
 
 
 /* Insert CSS for hatflower below this line*/
+#hatflower_image{
+  left:150px;
+  top:-5px;
+  
+}
 
 
 
